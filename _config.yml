@@ -9,16 +9,13 @@ permalink:        pretty
 title:            C&L
 tagline:          'A simple blog'
 description:      "Wing Gao's blog"
-url:              http://hyde.getpoole.com
+url:              http://blog.wingao.me
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Wing Gao'
+  url:            https://twitter.com/Wing_Gao
 
 paginate:         5
 
-# Custom vars
-version:          2.0.0
-
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/WingGao/me
