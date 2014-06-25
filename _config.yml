@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            C&L
 tagline:          'A simple blog'
-description:      "Wing Gao's blog"
+description:      Wing Gao's blog<br><a href="https://twitter.com/Wing_Gao">@Wing_Gao</a>
 url:              http://blog.wingao.me
 
 author:
