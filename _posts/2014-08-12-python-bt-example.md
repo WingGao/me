@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Python Behavior Tree Example
+category: Tech
+tags: [python, AI]
+comments: true
 ---
+
 Use [owyl](https://github.com/eykd/owyl)
 	
 	# coding=utf-8
