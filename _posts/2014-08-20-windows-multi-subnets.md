@@ -23,4 +23,4 @@ If you config route by your self use:
 	
 	route add 1.1.1.1 192.168.x.1 if x
 
-More information abuout [route]("http://technet.microsoft.com/en-us/library/cc757323(v=ws.10).aspx").
+More information abuout [route](http://technet.microsoft.com/en-us/library/cc757323(v=ws.10).aspx).
