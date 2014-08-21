@@ -16,9 +16,9 @@ First change the sources to the old server:
 Second change the dist update info:
 	
 	sudo cp /etc/update-manager/meta-release /etc/update-manager/meta-release.old
-	sudo sed -i -e 's/changelogs.ubuntu.com/blog.wingao.me\/p/g' /etc/update-manager/meta-release
+	sudo sed -i -e 's/changelogs.ubuntu.com/blog.wingao.me\/assets\/f/g' /etc/update-manager/meta-release
 
-Because offical file is point the url to the <code>archive.ubuntu.com</code> and it will get a <code>404 ERROR</code>. So I just made this file and change all the url to <code>old-release.ubuntu.com</code>.
+Because offical file is point the url to the <code>archive.ubuntu.com</code> and it will get a <code>404 ERROR</code>. So I just made this file and change all the url to <code>old-release.ubuntu.com</code>.The file is [here](/assets/f/meta-release)
 
 Finally:
 	
